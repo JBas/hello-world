@@ -1,4 +1,4 @@
 # hello-world
 repository tutorial
 
-I'm a student at CMU wanting to learn more Python, Java, C, and machine learning.
+I'm an Electrical and Computer Engineering sophomore at CMU wanting to learn more about operating systems and computer architecture.
